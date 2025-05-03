@@ -89,4 +89,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar
 
 ## Licença
 
-Este projeto está licenciado sob [incluir licença apropriada]. 
+Este projeto está licenciado sob a licença MIT. Isso significa que qualquer pessoa pode usar, modificar, distribuir e até mesmo vender este software sem restrições, desde que o aviso de copyright original seja incluído.
